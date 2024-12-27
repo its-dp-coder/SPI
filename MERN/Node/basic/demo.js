@@ -1,2 +1,2 @@
-var m=require('./mod');
-console.log(m);
+ var m=require('./mod.js');
+ console.log(m);

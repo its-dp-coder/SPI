@@ -6,35 +6,38 @@
     <title>counter</title>
 </head>
 <body>
-  <p id="c">0</p>  
-  <button onclick="st()">start</button>
+  <p id="c">0</p> 
+  <button onclick="st()">start</button> 
   <button onclick="sto()">stop</button>
   <button onclick="r()">reset</button>
-  <button onclick="ad()">skip add</button>
+  <button onclick="ad()">skipad</button>
   <script>
-    var counter = 0;
-    var n;
-    function co(){
-        counter++;
-        c.innerHTML=counter;
-    }
-    function st(){
-        console.log("hii");
-        n=setInterval(co(),1000);
+          var counter = 0;
+          var n;
+          function co(){
+counter++;
+c.innerHTML=counter;
+
+
+          }
+    function st() {
+        console.log('hhh');
+    n = setInterval(co,1000)
     }
     function r(){
-        counter=0;
-        st();
+      counter=0
+      st();
     }
-    function sto(){
-        clearInterval(n);
+    function sto() {
+      clearInterval(n);
+      
     }
     var x=setTimeout(()=>{
-        alert("hello");
+      alert("hello");
     },3000)
-    function ad(){
-        clearTimeout(x);
-    }
+   function ad(){
+    clearTimeout(x);
+   }
   </script>
 </body>
 </html>

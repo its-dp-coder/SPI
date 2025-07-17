@@ -1,0 +1,18 @@
+1752640642943: GET: /api/users1752640841982: POST: /api/users
+1752641058468; ::1 POST: /api/users
+
+1752641091401; ::1 POST: /api/users
+
+1752729442149; ::1 GET: /api/users
+
+1752729931213; ::1 GET: /api/users
+
+1752731535387; ::1 GET: /api/users
+
+1752731541745; ::1 POST: /api/users
+
+1752732084712; ::1 POST: /api/users
+
+1752732412361; ::1 GET: /api/users/20000
+
+1752732426113; ::1 GET: /api/users/3

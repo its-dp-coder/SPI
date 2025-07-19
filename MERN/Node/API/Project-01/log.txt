@@ -16,3 +16,37 @@
 1752732412361; ::1 GET: /api/users/20000
 
 1752732426113; ::1 GET: /api/users/3
+
+1752737364750; ::1 POST: /api/users
+
+1752737458991; ::1 POST: /api/users
+
+1752745036191; ::1 POST: /api/users
+
+1752745188617; ::1 POST: /api/users
+
+1752745588775; ::1 POST: /api/users
+
+1752745895209; ::1 GET: /users
+
+1752745895261; ::1 GET: /favicon.ico
+
+1752746010649; ::1 GET: /users
+
+1752746014909; ::1 GET: /users
+
+1752746205381; ::1 GET: /users
+
+1752746236622; ::1 POST: /api/users
+
+1752746242410; ::1 GET: /users
+
+1752746319701; ::1 GET: /api/users
+
+1752746484870; ::1 GET: /api/users/6878c8fcc9a972275f487d09
+
+1752746826724; ::1 PATCH: /api/users/6878c8fcc9a972275f487d09
+
+1752747078330; ::1 DELETE: /api/users/6878c8fcc9a972275f487d09
+
+1752747086126; ::1 GET: /users

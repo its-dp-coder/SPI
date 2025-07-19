@@ -1,0 +1,3 @@
+Schema -Define the Structure
+Schema-Model
+USingh Model we do CRUD operations
